@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning React.js
   
 - 📫 How to reach me ...
-  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) 
-  - [<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]
+  - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/raksith-s-s-2aa49928b/)
+  - <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   
 - 😄 Pronouns: Techie
   
@@ -26,7 +26,7 @@
 - ### IDE and Tools I Use
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> 
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/> 
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/> 
 
 ### 💻 Workspace Spec
 
