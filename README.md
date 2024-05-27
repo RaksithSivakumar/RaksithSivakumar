@@ -28,7 +28,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> 
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/> 
 
-### 💻 Workspace Spec
+- ### 💻 Workspace Spec
 
 ![RaksithSivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=dark&show_icons=true&&hide=issues,contribs)
 
