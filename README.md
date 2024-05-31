@@ -13,8 +13,11 @@
 <a href="https://www.linkedin.com/in/raksith-s-s-2aa49928b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
-   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> (risivandev@gmail.com)
+
+  <a href="mailto:risivandev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   
 - ### I code in
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> 
