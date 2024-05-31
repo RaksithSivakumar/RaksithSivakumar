@@ -28,15 +28,17 @@
   <a href="https://docs.arduino.cc/hardware/uno-rev3/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/></a>
 
 - ### IDE and Tools I Use
- <a href="https://code.visualstudio.com/docs" target="_blank">
+  
+    <a href="https://code.visualstudio.com/docs" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-</a>
- <a href="https://www.anaconda.com/" target="_blank">
+    </a>
+    <a href="https://www.anaconda.com/" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-</a>
-  <a href="https://www.figma.com/login" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/>
-</a>
+    </a>
+    <a href="https://www.figma.com/login" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png"       
+    alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/>
+    </a>
 
 
 - ### 💻 Workspace Spec
