@@ -20,22 +20,12 @@
 
   
 - ### I code in
-- 
-  <a href="https://en.cppreference.com/w/c/language" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-</a>
- <a href="https://www.python.org/" target="_blank">
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-</a>
- <a href="https://www.javatpoint.com/html-tutorial" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-</a>
-  <a href="https://docs.arduino.cc/hardware/uno-rev3/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
-</a>
+  
+  <a href="https://en.cppreference.com/w/c/language" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/></a>
+  <a href="https://www.python.org/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /></a> <a href="https://www.javatpoint.com/html-tutorial" target="_blank"> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/></a>
+  <a href="https://docs.arduino.cc/hardware/uno-rev3/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/></a>
 
 - ### IDE and Tools I Use
  <a href="https://code.visualstudio.com/docs" target="_blank">
