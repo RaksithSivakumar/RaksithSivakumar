@@ -20,16 +20,33 @@
 
   
 - ### I code in
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> 
+  <a href="https://en.cppreference.com/w/c/language" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+</a>
+ <a href="https://www.python.org/" target="_blank">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
+ <a href="https://www.javatpoint.com/html-tutorial" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+</a>
+  <a href="https://docs.arduino.cc/hardware/uno-rev3/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
+</a>
 
 - ### IDE and Tools I Use
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> 
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/> 
+ <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+</a>
+ <a href="https://www.anaconda.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
+</a>
+  <a href="https://www.figma.com/login" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/>
+</a>
+
 
 - ### 💻 Workspace Spec
 
