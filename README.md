@@ -2,7 +2,7 @@
   
 - Computer Science Student 
   
- <img align="right" width="370" height="290" src="https://www.istockphoto.com/vector/concept-of-destroyed-cyber-security-gm1338188693-418854168)">
+ <img align="right" width="370" height="290" src="(https://media.istockphoto.com/id/1338188693/vector…20&c=pDG-r2Uty2v9bDe4BZcSYEKgLcHOoIEDB6EYjwzElvg=)">
   
 - 👀 I’m interested in Cyber Security and Full Stack Development
   
