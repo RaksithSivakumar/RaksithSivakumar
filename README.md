@@ -10,7 +10,9 @@
   
 - 📫 How to reach me ...
   
-   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/raksith-s-s-2aa49928b/)
+<a href="https://www.linkedin.com/in/raksith-s-s-2aa49928b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   
    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> (risivandev@gmail.com)
   
