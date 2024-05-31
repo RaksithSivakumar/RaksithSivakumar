@@ -2,7 +2,7 @@
   
 - Computer Science Student 
   
- <img align="right" width="370" height="290" src="https://media.istockphoto.com/id/1277718299/vector/artificial-intelligence-looking-at-smart-city-connected-with-planet-through-global-mobile.jpg?s=1024x1024&w=is&k=20&c=Rp3pke0jHwcWmDX1aZ-CLZPMK5XjH4rqdLYbD0wvEa8=">
+ <img align="right" width="370" height="290" src="https://media.istockphoto.com/id/1363579761/photo/businessman-holding-graph.jpg?s=612x612&w=0&k=20&c=6JlwTkgX0GxCwzDRncWhX1mgZnjMvxpdG9Rc3VwYZbA=">
   
 - 👀 I’m interested in Cyber Security and Full Stack Development
   
