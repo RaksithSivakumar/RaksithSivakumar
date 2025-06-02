@@ -82,7 +82,7 @@
 
 - 🧠 Exploring cutting-edge AI/ML technologies and automation
 
--💡 Creating innovative, real-world solutions that make an impact
+- 💡 Creating innovative, real-world solutions that make an impact
 
 
 ## 🤝 Connect With Me
