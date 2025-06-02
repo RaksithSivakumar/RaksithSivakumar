@@ -56,21 +56,35 @@
 
 
 # 📊 GitHub Stats:
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 
 ## 🏆 GitHub Trophies
+
+<div algin="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=RaksithSivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
 ### 🔝 Top Contributed Repo
+
+<div algin="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</div>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=RaksithSivakumar&icon=4&color=1)](https://visitcount.itsvg.in)
 
 ## 🎯 Current Focus
 
@@ -84,6 +98,7 @@
 
 - 💡 Creating innovative, real-world solutions that make an impact
 
+---
 
 ## 🤝 Connect With Me
 
