@@ -4,8 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Engineer;AI%2FML+Innovator;DevOps+Specialist;Writing+Maintainable+Code;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
-# 💫 About Me:
-<br><br>I'm a passionate Full Stack Developer with a deep interest in AI and DevOps. I enjoy building intelligent, user-focused applications that solve real-world problems. Whether it's developing responsive web apps, integrating AI-powered features, or automating infrastructure, I thrive on turning ideas into scalable and impactful solutions.<br><br>🔭 Currently working on AI-driven web applications<br><br>🚀 Exploring the intersection of AI, Web Development, and DevOps<br><br>🌱 Always learning — currently diving into ML Ops & cloud automation<br><br>💡 Open to exciting ideas, contributions, and collaborations<br><br>🎯 Goal: Committed to engineering scalable solutions that don’t just function they transform industries and improve lives.<br><br>
+## 💫 About Me:
+I'm a passionate Full Stack Developer with a deep interest in AI and DevOps. I enjoy building intelligent, user-focused applications that solve real-world problems. Whether it's developing responsive web apps, integrating AI-powered features, or automating infrastructure, I thrive on turning ideas into scalable and impactful solutions.
+
+- 🔭 Currently working on AI-driven web applications<br><br>
+- 🚀 Exploring the intersection of AI, Web Development, and DevOps<br><br>
+- 🌱 Always learning currently diving into ML Ops & cloud automation<br><br>
+- 💡 Open to exciting ideas, contributions, and collaborations<br><br>
+- 🎯 Goal: Committed to engineering scalable solutions that don’t just function they transform industries and improve lives.<br><br>
 
 ---
 
