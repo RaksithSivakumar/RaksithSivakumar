@@ -1,19 +1,43 @@
-## 👋 Hi there, It's me Raksith
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Engineer;AI%2FML+Innovator;DevOps+Specialist;Writing+Maintainable+Code;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Raksith%20S%20S" />
 </div>
 
-## 💫 About Me:
-I'm a passionate Full Stack Developer with a deep interest in AI and DevOps. I enjoy building intelligent, user-focused applications that solve real-world problems. Whether it's developing responsive web apps, integrating AI-powered features, or automating infrastructure, I thrive on turning ideas into scalable and impactful solutions.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=110&lines=Full+Stack+Engineer;AI%2FML+Innovator;DevOps+Specialist;Writing+Maintainable+Code;AI+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</div>
+</br>
 
-- 🔭 Currently working on AI-driven web applications<br><br>
-- 🚀 Exploring the intersection of AI, Web Development, and DevOps<br><br>
-- 🌱 Always learning currently diving into ML Ops & cloud automation<br><br>
-- 💡 Open to exciting ideas, contributions, and collaborations<br><br>
-- 🎯 Goal: Committed to engineering scalable solutions that don’t just function they transform industries and improve lives.<br><br>
+## 👨‍💻 About Me
+My passion lies in solving real-world problems as a Full Stack Developer with a keen interest in AI and DevOps. I enjoy transforming concepts into scalable and effective solutions, whether it's by developing intuitive web apps, embedding intelligent AI features, or automating infrastructure.
+
+- 🎓 B.E CSE student with expertise in AI/ML & Full-Stack Development
+- 🚀 Building intelligent systems that solve real-world problems
+- 🧠 AI enthusiast specializing in RAG systems, & AI agents
+- 🔍 Focused on building scalable, innovative technology solutions
+- 🌱 Committed to lifelong learning and staying ahead in a fast-changing tech landscape
+- 🛠️ Enjoy creating real-world impact through smart, practical solutions
+- 🌐 Passionate about creating technology simple, usable, and impactful for all
+
+
+## 🎯 Current Focus
+
+- 🤖 Developing intelligent systems powered by Machine Learning and Large Language Models (LLMs)
+- 💡 Participating in hackathons to build fast, creative, and impactful solutions
+- 🔄 Applying DevOps practices for efficient deployment and continuous integration
+- 🌐 Building full-stack applications with modern frameworks and cloud-native tools
+- 🧠 Exploring advanced AI/ML techniques, automation, and real-world applications
 
 ---
+<div align="center">
+  <a href="https://www.linkedin.com/in/raksith-s-s-2aa49928b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:r.risivandev@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/RaksithSivakumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/RaksithSivakumar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</div>
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -30,44 +54,33 @@ I'm a passionate Full Stack Developer with a deep interest in AI and DevOps. I e
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### 🧑‍🎨 Frontend  
+### 🧑‍🎨 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧠 Backend  
+### 🧠 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Authentication & Database  
+### 🔐 Authentication & Database  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🧠 AI / ML  
+### 🧠 AI / ML  
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🚀 DevOps  
+### 🚀 DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 📁 Version Control  
+### 📁 Version Control  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -76,63 +89,53 @@ I'm a passionate Full Stack Developer with a deep interest in AI and DevOps. I e
 
 <div algin="center">
   
-![](https://github-profile-trophy.vercel.app/?username=RaksithSivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+![](https://github-profile-trophy.vercel.app/?username=RaksithSivakumar&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
 
 </div>
 
----
 
 ### 🔝 Top Contributed Repo
 
 <div algin="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 </div>
 
----
 
-## 🎯 Current Focus
-
-- 🤖 Building intelligent, AI-powered web applications
-
-- 🔄 Implementing DevOps practices for seamless deployment and scalability
-
-- 🌐 Developing full stack projects using modern frameworks and cloud tools
-
-- 🧠 Exploring cutting-edge AI/ML technologies and automation
-
-- 💡 Creating innovative, real-world solutions that make an impact
-
----
-
-## 🤝 Connect With Me
+# 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raksith-s-s-2aa49928b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+  <br/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img width="90%" src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://www.instagram.com/i_risi_05?igsh=MTlubDgyZXdmZ2prOQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="http://t.me/Risivandev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:risivandev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 💻 Workspace Space
 
-[![RaksithSivakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaksithSivakumar&bg_color=000000&color=f8f7f7&line=0aff27&point=f8f6f6&area=true&hide_border=true)](https://github.com//github-readme-activity-graph)
+[![RaksithSivakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaksithSivakumar&bg_color=050f2c&color=f8f7f7&line=2dde98&point=f8f6f6&area=true&hide_border=true)](https://github.com//github-readme-activity-graph)
+
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rivalcoder&style=flat-square&color=blue" alt="Profile Views" />
-  <p>Thanks for visiting my profile! 😊</p>
+  <img src="https://komarev.com/ghpvc/?username=RaksithSivakumar&style=flat-square&color=blue" alt="Profile Views" />
+  <p>Thanks for visiting my profile! 😊</p>
 </div>
