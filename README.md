@@ -117,10 +117,18 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
 
-  <br/><br/>
+  <br/>
 
   <!-- GitHub Streak Stats -->
- [![GitHub Streak](https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+ <table width="90%">
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak" width="90%"/>
+      </a>
+    </td>
+  </tr>
+</table>
  
 </div>
 
