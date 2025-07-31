@@ -120,10 +120,8 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <br/><br/>
 
   <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img width="90%" src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak" />
-  </a>
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+ 
 </div>
 
 ---
