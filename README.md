@@ -121,7 +121,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
   <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="Raksith Stats" width="90%" />
 </a>
  
 </div>
