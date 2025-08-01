@@ -100,7 +100,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 <div algin="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
@@ -110,19 +110,18 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaksithSivakumar&theme=algolia&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
   <br/>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=algolia&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaksithSivakumar&theme=algolia&hide_border=true&layout=compact" alt="Top Languages" />
 
   <br/>
 
   <!-- GitHub Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="Raksith Stats" width="90%" />
-</a>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="Raksith Stats" width="90%" />
+
  
 </div>
 
