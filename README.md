@@ -86,14 +86,12 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 
 ## 🏆 GitHub Trophies
+<div align="center">
 
-<div algin="center">
-  
-  
-![](https://github-profile-trophy.vercel.app/?username=RaksithSivakumar&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-trophies.vercel.app/?username=RaksithSivakumar&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
+
 
 
 # 📊 GitHub Profile Insights
