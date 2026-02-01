@@ -74,9 +74,9 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 <h3>
   <p><b>🧠 AI / ML</b></p>
-  <a href="https://www.google.com/search?q=openai+google+ai">
+  <a href="https://www.google.com/search?q=pinecone+langchain+n8n+mcp,huggingface">
     <img
-      <img src="https://skill-icons-fast.vercel.app/api/icons?i=pinecone,langchain,n8n,mcp&titles=true" 
+      <img src="https://skill-icons-fast.vercel.app/api/icons?i=pinecone,langchain,n8n,mcp,huggingface&titles=true" 
     />
   </a>
 </h3>
