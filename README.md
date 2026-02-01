@@ -54,7 +54,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <p><b>🧑‍🎨 Frontend</b></p>
   <a href="https://www.google.com/search?q=react+nextjs+tailwind+javascript">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=reactjs,nextjs,tailwind,js&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=react,nextjs,tailwind,js&titles=true"
     />
   </a>
 </h3>
