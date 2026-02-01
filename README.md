@@ -41,48 +41,64 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<h3>
+  <p><b>⚙️ Tools & Platforms</b></p>
+  <a href="https://www.google.com/search?q=vercel+netlify+render+postman+figma+dribbble+canva">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vercel,netlify,render,postman,figma,canva&titles=true"
+    />
+  </a>
+</h3>
 
-### ⚙️ Tools & Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3>
+  <p><b>🧑‍🎨 Frontend</b></p>
+  <a href="https://www.google.com/search?q=react+nextjs+tailwind+javascript">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=reactjs,nextjs,tailwind,js&titles=true"
+    />
+  </a>
+</h3>
 
+<h3>
+  <p><b>🧠 Backend</b></p>
+  <a href="https://www.google.com/search?q=nodejs+express+mysql+mongodb+python">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=nodejs,express,mysql,mongodb,python&titles=true"
+    />
+  </a>
+</h3>
 
-### 🧑‍🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧠 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔐 Authentication & Database  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🔐 Authentication & Database   
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🧠 AI / ML  
-![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<h3>
+  <p><b>🧠 AI / ML</b></p>
+  <a href="https://www.google.com/search?q=openai+google+ai">
+    <img
+      <img src="https://skill-icons-fast.vercel.app/api/icons?i=pinecone,langchain,n8n,mcp&titles=true" 
+    />
+  </a>
+</h3>
 
-### 🚀 DevOps  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<h3>
+  <p><b>🚀 DevOps</b></p>
+  <a href="https://www.google.com/search?q=docker+jenkins+devops">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=docker,jenkins,aws,kubernetes&titles=true"
+    />
+  </a>
+</h3>
 
-### 📁 Version Control  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h3>
+  <p><b>📁 Version Control</b></p>
+  <a href="https://www.google.com/search?q=git+github+version+control">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=git,github&titles=true"
+    />
+  </a>
+</h3>
 
-</div>
 
 
 ## 🏆 GitHub Trophies
