@@ -60,7 +60,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 </h3>
 
 <h3>
-  <p><b>🧠 Backend</b></p>
+  <p><b>🧠 Backend & Database </b></p>
   <a href="https://www.google.com/search?q=nodejs+express+mysql+mongodb+python">
     <img
       src="https://skill-icons-fast.vercel.app/api/icons?i=nodejs,express,mysql,mongodb,python&titles=true"
@@ -68,7 +68,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   </a>
 </h3>
 
-### 🔐 Authentication & Database   
+### 🔐 Authentication   
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
