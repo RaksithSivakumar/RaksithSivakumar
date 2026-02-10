@@ -113,40 +113,66 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 </div>
 
 
-
 # 📊 GitHub Profile Insights
 
-<table align="center" width="100%" cellpadding="5" border="0">
-  
+<table align="center" width="100%" cellpadding="12" cellspacing="0" border="0">
+
+  <!-- Top Contributions & Streak -->
   <tr>
-    <td align="left" width="50%">
+    <td align="center" width="50%">
       <img 
         src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true"
         alt="Top Contributed Repositories"
-        style="max-width: 100%;"
+        width="95%"
       />
     </td>
-    <td align="right" colspan="2">
+    <td align="center" width="50%">
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true"
         alt="GitHub Streak Stats"
-        style="max-width: 100%;"
+        width="100%"
+      />
+     </td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr>
+    <td colspan="2">
+      <br />
+    </td>
+  </tr>
+
+  <!-- Top Languages -->
+  <tr>
+    <td align="center" colspan="2">
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+        width="55%"
       />
     </td>
   </tr>
 
+  <!-- Spacer -->
+  <tr>
+    <td colspan="2">
+      <br />
+    </td>
+  </tr>
+
+  <!-- GitHub Stats -->
   <tr>
     <td align="center" colspan="2">
-      <br />
       <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&theme=tokyonight"
-        alt="Top Languages"
-        width="70%"
+        src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+        width="75%"
       />
     </td>
   </tr>
 
 </table>
+
 
 ---
 
