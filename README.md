@@ -112,19 +112,36 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 # 📊 GitHub Profile Insights
 
-<table align="center">
+<table align="center" width="100%" cellpadding="5" border="0">
+  
   <tr>
-    <td colspan="2" align="center">
-      <!-- Top Contributed Repo -->
-      <img src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" width="90%" />
+    <td align="left" width="50%">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true"
+        alt="Top Contributed Repositories"
+        style="max-width: 100%;"
+      />
+    </td>
+    <td align="right" colspan="2">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true"
+        alt="GitHub Streak Stats"
+        style="max-width: 100%;"
+      />
     </td>
   </tr>
+
   <tr>
-    <td colspan="2" align="center">
-      <!-- GitHub Streak Stats -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    <td align="center" colspan="2">
+      <br />
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&theme=tokyonight"
+        alt="Top Languages"
+        width="70%"
+      />
     </td>
   </tr>
+
 </table>
 
 ---
