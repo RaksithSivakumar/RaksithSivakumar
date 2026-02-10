@@ -85,10 +85,14 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <p><b>🚀 DevOps</b></p>
   <a href="https://www.google.com/search?q=docker+jenkins+devops">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=docker,jenkins,aws,kubernetes&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=docker,jenkins,aws,kubernetes,terraform,ansible,prometheus,grafana&titles=true"
     />
   </a>
 </h3>
+
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
 
 <h3>
   <p><b>📁 Version Control</b></p>
