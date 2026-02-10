@@ -116,13 +116,13 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <tr>
     <td colspan="2" align="center">
       <!-- Top Contributed Repo -->
-      <img src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" width="80%" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" width="90%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <!-- GitHub Streak Stats -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak Stats" width="95%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
