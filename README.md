@@ -115,58 +115,51 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
 
 # 📊 GitHub Profile Insights
 
-<table align="center" width="100%" cellpadding="12" cellspacing="0" border="0">
+<table align="center" width="1200px" cellpadding="20" cellspacing="0" border="0">
 
   <!-- Top Contributions & Streak -->
   <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=RaksithSivakumar&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true"
-        alt="Top Contributed Repositories"
-        width="95%"
-      />
-    </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img 
         src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true"
         alt="GitHub Streak Stats"
-        width="100%"
+        width="95%"
       />
      </td>
   </tr>
 
   <!-- Spacer -->
   <tr>
-    <td colspan="2">
-      <br />
+    <td>
+      <br /><br />
     </td>
   </tr>
 
   <!-- Top Languages -->
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img 
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&theme=tokyonight&hide_border=true"
         alt="Top Languages"
-        width="55%"
+        width="70%"
       />
     </td>
   </tr>
 
   <!-- Spacer -->
   <tr>
-    <td colspan="2">
-      <br />
+    <td>
+      <br /><br />
     </td>
   </tr>
 
   <!-- GitHub Stats -->
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img 
         src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
-        width="75%"
+        width="90%"
       />
     </td>
   </tr>
