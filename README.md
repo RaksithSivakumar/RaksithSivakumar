@@ -121,7 +121,7 @@ My passion lies in solving real-world problems as a Full Stack Developer with a 
   <tr>
     <td align="center" width="100%">
       <img 
-        src="https://nirzak-streak-stats.vercel.app/?user=RaksithSivakumar&theme=algolia&hide_border=true"
+        src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=algolia&hide_border=true&v=1"
         alt="GitHub Streak Stats"
         width="95%"
       />
