@@ -36,7 +36,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class RaksithSS:
+class Raksith:
     def __init__(self):
         self.name        = "Raksith S S"
         self.role        = "Junior AI Engineer"
