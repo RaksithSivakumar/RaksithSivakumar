@@ -210,24 +210,6 @@ me = Raksith()
 
 ---
 
-## 🎓 Education
-
-<table width="100%">
-<tr>
-<td>
-
-**🏛️ B.E. in Computer Science & Engineering**
-*Bannari Amman Institute of Technology* — `Sep 2023 – Mar 2027`
-📊 **CGPA: 7.02 / 10**
-
-**Relevant Coursework:** Data Structures & Algorithms · Cloud Computing · Operating Systems · DBMS
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
