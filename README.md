@@ -247,11 +247,11 @@ me = Raksith()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=ambient_gradient&hide_border=true&border_radius=10&card_width=700&v=2" />
+<img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=ambient_gradient&hide_border=true&border_radius=10&card_width=700" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true" alt="GitHub Stats" width="55%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true" alt="GitHub Stats" width="50%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&hide_border=true" alt="Top Languages" width="45%" />
 
 </div>
