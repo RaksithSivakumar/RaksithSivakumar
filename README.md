@@ -44,7 +44,7 @@ class Raksith:
         self.education   = "B.E. CSE @ Bannari Amman Institute of Technology"
         self.focus       = ["Generative AI", "RAG Systems", "LLM Orchestration", "Full Stack"]
         self.contact     = "risivandev@gmail.com"
-        self.portfolio   = "https://raksith-portfolio-rnlu.vercel.app/"
+        self.portfolio   = "https://raksith.vercel.app/"
         self.fun_fact    = "I turn unstructured data into actionable AI insights ⚡"
 
     def current_work(self):
