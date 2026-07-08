@@ -38,24 +38,73 @@
 ```python
 class Raksith:
     def __init__(self):
-        self.name        = "Raksith S S"
-        self.role        = "Junior AI Engineer"
-        self.location    = "Erode, India 🇮🇳"
-        self.education   = "B.E. CSE @ Bannari Amman Institute of Technology"
-        self.focus       = ["Generative AI", "RAG Systems", "LLM Orchestration", "Full Stack"]
-        self.contact     = "risivandev@gmail.com"
-        self.portfolio   = "https://raksith.vercel.app/"
-        self.fun_fact    = "I turn unstructured data into actionable AI insights ⚡"
-
-    def current_work(self):
-        return [
-            "🔬 Building production-grade RAG pipelines",
-            "🤖 Designing multi-LLM orchestration systems",
-            "🌐 Developing AI-driven full-stack applications",
-            "🏆 Competing in hackathons to ship fast & creatively",
+        self.name = "Raksith S S"
+        self.role = "Junior AI Engineer"
+        self.location = "Erode, Tamil Nadu, India 🇮🇳"
+        self.education = "B.E. Computer Science @ Bannari Amman Institute of Technology"
+        self.interests = [
+            "Generative AI",
+            "Agentic AI",
+            "RAG Systems",
+            "LLM Engineering",
+            "Full Stack Development"
         ]
 
+        self.currently_learning = [
+            "Multi-Agent AI Systems",
+            "AI Infrastructure",
+            "Kubernetes",
+            "Production LLM Applications"
+        ]
+
+        self.tools = {
+            "Languages": ["Python", "Java", "JavaScript", "SQL"],
+            "AI": [
+                "LangChain",
+                "CrewAI",
+                "OpenAI",
+                "Gemini"
+            ],
+            "Frontend": [
+                "React",
+                "Next.js",
+                "Tailwind CSS"
+            ],
+            "Backend": [
+                "FastAPI",
+                "Node.js",
+            ],
+            "Databases": [
+                "MySQL",
+                "MongoDB",
+                "Pinecone",
+                "FAISS"
+            ],
+            "Cloud": [
+                "AWS",
+                "Docker",
+                "GitHub Actions"
+            ]
+        }
+
+        self.current_projects = [
+            "Production RAG Pipelines",
+            "AI Agents & Workflow Automation",
+            "Full-Stack AI Products"
+        ]
+
+        self.contact = {
+            "Portfolio": "https://raksith.vercel.app",
+            "Email": "risivandev@gmail.com",
+            "LinkedIn": "linkedin.com/in/raksith",
+            "GitHub": "github.com/RaksithSivakumar"
+        }
+
+    def say_hi(self):
+        return "Thanks for visiting my profile! 🚀"
+
 me = Raksith()
+print(me.say_hi())
 ```
 
 ---
