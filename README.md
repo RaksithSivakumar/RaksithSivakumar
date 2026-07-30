@@ -279,7 +279,7 @@ print(me.say_hi())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RaksithSivakumar&theme=ambient_gradient&hide_border=true&border_radius=10&card_width=700" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=RaksithSivakumar&theme=tokyonight)](https://git.io/streak-stats)
 
 <br/><br/>
 
