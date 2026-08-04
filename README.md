@@ -279,12 +279,25 @@ print(me.say_hi())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RaksithSivakumar&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=RaksithSivakumar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true" alt="GitHub Stats" width="50%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&hide_border=true" alt="Top Languages" width="45%" />
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true"
+  width="49%"
+/>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaksithSivakumar&layout=compact&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&hide_border=true"
+  width="49%"
+/>
 
 </div>
 
