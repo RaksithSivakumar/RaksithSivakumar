@@ -279,13 +279,13 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+
   <img
     src="https://github-readme-streak-stats-eight.vercel.app?user=RaksithSivakumar&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     width="100%"
   />
-</a>
+
 
 <br><br>
 
