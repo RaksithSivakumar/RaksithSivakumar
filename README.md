@@ -313,11 +313,16 @@ print(me.say_hi())
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Chart
 
 <div align="center">
 
+<!--
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaksithSivakumar&bg_color=1a1b27&color=38BDF8&line=a5b4fc&point=f472b6&area=true&area_color=38BDF820&hide_border=true&radius=8)](https://github.com/RaksithSivakumar)
+-->
+
+<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/931e6643-b603-4dca-8221-d7dfe5ae2a85" />
+
 
 </div>
 
