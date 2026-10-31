@@ -290,8 +290,9 @@ print(me.say_hi())
 <br><br>
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=RaksithSivakumar&show_icons=true&bg_color=0d0f1a&title_color=38BDF8&text_color=a5b4fc&icon_color=f472b6&ring_color=7c3aed&hide_border=true"
   width="49%"
+  alt="Raksith's GitHub Stats"
 />
 
 <img
